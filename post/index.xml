@@ -6,15 +6,40 @@
     <description>Recent content in Posts on bia&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 25 Feb 2016 16:17:53 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 25 Feb 2016 19:34:49 -0300</lastBuildDate>
     <atom:link href="http://blog.biancarosa.com.br/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Aprendendo Python #1</title>
+      <link>http://blog.biancarosa.com.br/post/aprendendo-python-1/</link>
+      <pubDate>Thu, 25 Feb 2016 19:34:49 -0300</pubDate>
+      
+      <guid>http://blog.biancarosa.com.br/post/aprendendo-python-1/</guid>
+      <description>&lt;p&gt;Nos últimos dias tenho focado em aprender um pouco de &lt;strong&gt;Python&lt;/strong&gt;. Até agora, tenho gostado bastante. Gosto da similaridade com &lt;em&gt;Ruby&lt;/em&gt; e &lt;em&gt;Groovy&lt;/em&gt; e é uma linguagem gostosa de programar.&lt;/p&gt;
+
+&lt;p&gt;Queria dividir com vocês a minha tragetória, então pra esse post de introdução vou postar alguns recursos que eu tenho usado muito.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A &lt;a href=&#34;https://www.python.org/doc/&#34;&gt;documentação&lt;/a&gt; de Python tem se mostrado muito bem escrita.&lt;/li&gt;
+&lt;li&gt;Os &lt;a href=&#34;http://docs.python-guide.org&#34;&gt;guias&lt;/a&gt; também, especificamente a parte de &lt;a href=&#34;http://docs.python-guide.org/en/latest/intro/learning/&#34;&gt;aprendizado&lt;/a&gt;. Tem vários links legais.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://learnpythonthehardway.org/book/&#34;&gt;Learn Python the Hard Way&lt;/a&gt; - Não é hard, sério.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pycursos.com/python-para-zumbis/&#34;&gt;Python para Zumbis&lt;/a&gt; é um curso muito bacana que eu ainda quero fazer.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fullstackpython.com/&#34;&gt;Full Stack Python&lt;/a&gt; eu ainda não tive a chance de explorar por completo, mas parece ser um link bacana.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;No momento, eu escolhi seguir o caminho via &lt;a href=&#34;http://learnpythonthehardway.org/book/&#34;&gt;Learn Python the Hard Way&lt;/a&gt;. Foi uma escolha olhando através dos guias e vendo, na parte de Beginner, o que me chamava a atenção. O curso te obriga a dar um passo pra trás no egocentrismo, nessa sensação de &amp;ldquo;ah, mas eu já sei isso&amp;rdquo; e a agir como se tivesse aprendendo tudo pela primeira vez. Bacana. O código tá rolando nesse &lt;a href=&#34;https://github.com/biancarosa/learning-python-the-hard-way&#34;&gt;repositório&lt;/a&gt; e eu confesso que estou sendo bem relapsa com as &lt;em&gt;learning notes&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Anyways, desejem-me sorte :)
+Ainda essa semana vou seguir o tutorial do Django Girls e pretendo postar algo sobre ele.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hello World</title>
-      <link>http://blog.biancarosa.com.br/post/HelloWorld/</link>
+      <link>http://blog.biancarosa.com.br/post/hello-world/</link>
       <pubDate>Thu, 25 Feb 2016 16:17:53 -0300</pubDate>
       
-      <guid>http://blog.biancarosa.com.br/post/HelloWorld/</guid>
+      <guid>http://blog.biancarosa.com.br/post/hello-world/</guid>
       <description>&lt;p&gt;Oficialmente meu primeiro post.&lt;/p&gt;
 
 &lt;p&gt;Apanhando pro Hugo.&lt;/p&gt;
