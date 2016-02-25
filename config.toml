@@ -2,4 +2,4 @@ baseurl = "http://blog.biancarosa.com.br/"
 languageCode = "pt-BR"
 title = "bia's blog"
 [params]
-    disqus = "biancarosa92"
+    disqus = "biancarosablog"
