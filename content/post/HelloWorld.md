@@ -10,3 +10,10 @@ Oficialmente meu primeiro post.
 Apanhando pro Hugo.
 
 Tá sendo divertido.
+
+(Esse blog post)[http://mariarivas.me/post/Hugo], em inglês, me ajudou bastante a fazer o setup.
+
+O tema ainda precisa ser melhor explicado e algumas coisas configuráveis, vou tentar fazer um fork e melhorar :)
+
+
+Por enquanto é isso. Abçs.
