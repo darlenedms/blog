@@ -2,20 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on bia&#39;s blog</title>
-    <link>http://www.biancarosa.com.br/blog/post/</link>
+    <link>http://biancarosa.com.br/blog/post/</link>
     <description>Recent content in Posts on bia&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Thu, 25 Feb 2016 16:17:53 -0300</lastBuildDate>
-    <atom:link href="http://www.biancarosa.com.br/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://biancarosa.com.br/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>hello</title>
-      <link>http://www.biancarosa.com.br/blog/post/hello/</link>
+      <title>Hello World</title>
+      <link>http://biancarosa.com.br/blog/post/HelloWorld/</link>
       <pubDate>Thu, 25 Feb 2016 16:17:53 -0300</pubDate>
       
-      <guid>http://www.biancarosa.com.br/blog/post/hello/</guid>
-      <description>&lt;p&gt;Hello World&lt;/p&gt;
+      <guid>http://biancarosa.com.br/blog/post/HelloWorld/</guid>
+      <description>&lt;p&gt;Oficialmente meu primeiro post.&lt;/p&gt;
+
+&lt;p&gt;Apanhando pro Hugo.&lt;/p&gt;
+
+&lt;p&gt;Tá sendo divertido.&lt;/p&gt;
 </description>
     </item>
     
