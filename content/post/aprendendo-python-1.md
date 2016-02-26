@@ -7,7 +7,7 @@ tags = ["learning", "python", "resources"]
 
 Nos últimos dias tenho focado em aprender um pouco de **Python**. Até agora, tenho gostado bastante. Gosto da similaridade com *Ruby* e *Groovy* e é uma linguagem gostosa de programar.
 
-Queria dividir com vocês a minha tragetória, então pra esse post de introdução vou postar alguns recursos que eu tenho usado muito.
+Queria dividir com vocês a minha trajetória, então pra esse post de introdução vou postar alguns recursos que eu tenho usado muito.
 
 * A [documentação](https://www.python.org/doc/) de Python tem se mostrado muito bem escrita.
 * Os [guias](http://docs.python-guide.org) também, especificamente a parte de [aprendizado](http://docs.python-guide.org/en/latest/intro/learning/). Tem vários links legais.
